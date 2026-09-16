@@ -1,26 +1,13 @@
-
-
-#include <iostream>
-using namespace std;
-
 int main(){
-  int n = 5;
-  bool isPrime = true;
+  int n = 50;
+  int sum = 0;
 
-   for(int i = 2; i < n; i++){
-      if(n % i == 0){
-          isPrime = false;
-          break;
-      }
+  for(int i=1; i<=n ; i = i+2){
+     sum += i;
   }
 
-  if(isPrime == true){
-     cout << "it is a prime number";
-  }else{
-     cout << "It is an non prime number";
-  }
+  cout << "sum : " << sum << endl;
   return 0;
 }
 
 
-sfsdffdfsdfdsf
