@@ -6,12 +6,12 @@ Topics to be covered :
 2. loops 
    a. While loop
    b. For loop
-3. nested loops
+3. Nested loops
 
 ```
 
 1. Conditional statements 
-  Example 1: grading system
+  Example 1: Grading system
 ```cpp
 #include <iostream>
 using namespace std;
@@ -32,7 +32,7 @@ int main(){
 
 ```
 
-Example 2: find is the character is lowercase or uppercse 
+Example 2: Find is the character is lowercase or uppercse 
 
  a. method 1 
 
@@ -52,7 +52,7 @@ int main(){
 }
 ```
 
-b. method 2 - by comparing ascii values
+b. method 2 - By comparing ascii values 
 
 ```cpp
 #include <iostream>
@@ -78,7 +78,7 @@ int main(){
 2. Loops 
  a. While loop 
 
-  example 1: print nnumber 1 to 10 
+  example 1: Print nnumber 1 to 10 
 ```cpp
 #include <iostream>
 using namespace std;
@@ -97,7 +97,7 @@ int main(){
 
 b. For loop 
   
-  Example 1: sum of n'th number
+  Example 1: Sum of n'th number
 
 ```cpp 
 #include <iostream>
@@ -120,7 +120,7 @@ int main(){
 ```
 
 
-   Example 2: sum of all odd numbers from 1 to n 
+   Example 2: Sum of all odd numbers from 1 to n 
 
 ```cpp
 #include <iostream>
@@ -139,7 +139,8 @@ int main(){
 ```
 
 
-  Example 3: check if the number is prime or not
+  Example 3: Check if the number is prime or not
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -164,5 +165,5 @@ int main(){
 ```
 
 
-3. nested loops
+3. Nested loops
 
