@@ -33,7 +33,7 @@ int main(){
 
 Example 2: Find is the character is lowercase or uppercse <br>
 
- a. method 1 
+ a. Method 1 
 
 ```cpp
 #include <iostream>
@@ -51,7 +51,7 @@ int main(){
 }
 ```
 
-  b. method 2 - By comparing ascii values 
+  b. Method 2 - By comparing ascii values 
 
 ```cpp
 #include <iostream>
@@ -80,7 +80,7 @@ int main(){
    a. While loop <br>
 
 
-  example 1: Print nnumber 1 to 10 
+  Example 1: Print nnumber 1 to 10 
 ```cpp
 #include <iostream>
 using namespace std;
