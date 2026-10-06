@@ -10,7 +10,7 @@ Topics to be covered :
 
 ```
 
-1. Conditional statements 
+1. Conditional statements <br>
   Example 1: Grading system
 ```cpp
 #include <iostream>
@@ -29,10 +29,9 @@ int main(){
     }
     return 0;
 }
-
 ```
 
-Example 2: Find is the character is lowercase or uppercse 
+Example 2: Find is the character is lowercase or uppercse <br>
 
  a. method 1 
 
@@ -52,7 +51,7 @@ int main(){
 }
 ```
 
-b. method 2 - By comparing ascii values 
+  b. method 2 - By comparing ascii values 
 
 ```cpp
 #include <iostream>
@@ -75,8 +74,8 @@ int main(){
 ```
 
 
-2. Loops 
- a. While loop 
+2. Loops <br>
+ a. While loop <br>
 
   example 1: Print nnumber 1 to 10 
 ```cpp
@@ -95,7 +94,7 @@ int main(){
 
 ```
 
-b. For loop 
+  b. For loop <br>
   
   Example 1: Sum of n'th number
 
