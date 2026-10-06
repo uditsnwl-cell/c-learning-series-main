@@ -1,14 +1,14 @@
 
 ## lecture 1
 ```
-##Topics to be covered :
+Topics to be covered :
 
-Baiscs of c++ - variables
-input - output 
-print result 
-data types 
-operations.
-writing our first code
+1. Baiscs of c++ - variables
+2. input - output 
+3. print result 
+4. data types 
+5. operations.
+6. writing our first code
 
 ```
 

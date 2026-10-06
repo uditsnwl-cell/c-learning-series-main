@@ -1,9 +1,20 @@
-// ------------------------------------ conditional statements ---------------------
+## Lecture 2
+```
+Topics to be covered :
+1. Conditional statements 
+   a. if-else statement 
+2. loops 
+   a. While loop
+   b. For loop
+3. nested loops
+
+```
+
+1. Conditional statements 
+  Example 1: grading system
+```cpp
 #include <iostream>
 using namespace std;
-
-//----------------  grading system -----------------------
-
 int main(){
     int marks;
     cout << "Enter mark's obtained: ";
@@ -19,13 +30,14 @@ int main(){
     return 0;
 }
 
+```
 
+   Example 2: find is the character is lowercase or uppercse 
+       a. method 1 
 
-// --------------------- find is the character is lowercase or uppercse ------------------------
-
-// ---------------- method 1 -------------
-
-
+```cpp
+#include <iostream>
+using namespace std;
 int main(){
     char ch;
     cout << " Enter your character :";
@@ -37,10 +49,12 @@ int main(){
         cout << "uppercase \n";
     }
 }
+```
+       b. method 2 - by comparing ascii values
 
-
-//--------------------  method 2 - by comparing ascii values --------------------------
-
+```cpp
+#include <iostream>
+using namespace std;
 int main(){
     char ch;
     cout << " Enter your character :";
@@ -56,15 +70,16 @@ int main(){
 }
 
 
+```
 
 
+2. Loops 
+ a. While loop 
 
-// ------------------------------------loops ---------------------------------------------
-
-//-------------------------- while loop --------------------------
-
-// --------------- print nnumber 1 to 10 ------------
-
+  example 1: print nnumber 1 to 10 
+```cpp
+#include <iostream>
+using namespace std;
 int main(){
     int i = 1;
 
@@ -76,12 +91,15 @@ int main(){
     return 0;
 }
 
+```
 
+b. For loop 
+  
+  Example 1: sum of n'th number
 
-// ------------------------------- for loop ----------------------------------
-
-//------------ sum of n'th number -------------------
-
+```cpp 
+#include <iostream>
+using namespace std;
 int main(){
 
     int n = 50;
@@ -97,13 +115,14 @@ int main(){
     return 0;
 }
 
+```
 
 
+   Example 2: sum of all odd numbers from 1 to n 
 
-
-//------------------- sum of all odd numbers from 1 to n -------------------------
-
-
+```cpp
+#include <iostream>
+using namespace std;
 int main(){
   int n = 50;
   int sum = 0;
@@ -115,12 +134,13 @@ int main(){
   cout << "sum : " << sum << endl;
   return 0;
 }
+```
 
 
-
-//-------------------  check if the number is prime or not --------------------
-
-
+  Example 3: check if the number is prime or not
+```cpp
+#include <iostream>
+using namespace std;
 int main(){
   int n = 5;
   bool isPrime = true;
@@ -139,8 +159,8 @@ int main(){
   }
   return 0;
 }
+```
 
 
-
-// -------------------  nested loopas --------------------
+3. nested loops
 
