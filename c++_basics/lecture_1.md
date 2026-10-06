@@ -1,9 +1,20 @@
-''' 
-Baiscs of c++ - variables, input - output , print result , data types , operations.
-writing our first code
-''' 
 
-'''cpp
+## lecture 1
+```
+##Topics to be covered :
+
+Baiscs of c++ - variables
+input - output 
+print result 
+data types 
+operations.
+writing our first code
+
+```
+
+## c++ code
+
+```cpp
 
 #include <iostream>
 using namespace std;
@@ -18,4 +29,4 @@ int main() {
     cout << "the value of a + b =  " << sum << endl;
     return 0;
 }
-'''
+```
