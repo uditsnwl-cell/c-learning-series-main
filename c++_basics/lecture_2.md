@@ -33,7 +33,7 @@ int main(){
 
 Example 2: Find is the character is lowercase or uppercse <br>
 
-     a. method 1 
+ a. method 1 
 
 ```cpp
 #include <iostream>
@@ -51,7 +51,7 @@ int main(){
 }
 ```
 
-    b. method 2 - By comparing ascii values 
+  b. method 2 - By comparing ascii values 
 
 ```cpp
 #include <iostream>
