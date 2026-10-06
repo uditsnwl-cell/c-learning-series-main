@@ -11,7 +11,7 @@ Topics to be covered :
 ```
 
 1. Conditional statements <br>
-  Example 1: Grading system
+    Example 1 :  Grading system
 ```cpp
 #include <iostream>
 using namespace std;
@@ -33,7 +33,7 @@ int main(){
 
 Example 2: Find is the character is lowercase or uppercse <br>
 
- a. method 1 
+     a. method 1 
 
 ```cpp
 #include <iostream>
@@ -51,7 +51,7 @@ int main(){
 }
 ```
 
-  b. method 2 - By comparing ascii values 
+    b. method 2 - By comparing ascii values 
 
 ```cpp
 #include <iostream>
@@ -75,7 +75,10 @@ int main(){
 
 
 2. Loops <br>
- a. While loop <br>
+
+
+   a. While loop <br>
+
 
   example 1: Print nnumber 1 to 10 
 ```cpp
@@ -96,6 +99,7 @@ int main(){
 
   b. For loop <br>
   
+
   Example 1: Sum of n'th number
 
 ```cpp 
@@ -121,6 +125,7 @@ int main(){
 
    Example 2: Sum of all odd numbers from 1 to n 
 
+
 ```cpp
 #include <iostream>
 using namespace std;
@@ -139,6 +144,7 @@ int main(){
 
 
   Example 3: Check if the number is prime or not
+
 
 ```cpp
 #include <iostream>
