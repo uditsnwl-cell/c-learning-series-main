@@ -22,10 +22,10 @@ Example :
 using namespace std;
 
 int main({
-    str name = "udit"
-    int age = 12
-    double price = 11.122
-    float length = 1.23
+    string name = "udit";
+    int age = 12;
+    double price = 11.122;
+    float length = 1.23;
     
 }
 )
